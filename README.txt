@@ -56,6 +56,7 @@ optional arguments:
 future
 ------
 
+- figure out a way to handle big numbers! as in, dissertation word counts :-P
 - better handle non-integer values
 - use csv.Sniffer()
 - tests
